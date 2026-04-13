@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dr. Tilendra Choudhary</h1>
 <h3 align="center">
-AI Researcher | Data Scientist | Signal Processing Engineer  
+AI/ML Researcher | Data Scientist | Signal Processing Engineer  
 Specializing in Generative AI, Transformers & LLMs
 </h3>
 
@@ -20,7 +20,7 @@ Specializing in Generative AI, Transformers & LLMs
 
 ### 🤝 Open to Collaborate On
 - AI in healthcare engineering  
-- Intelligent biomedical systems  
+- Intelligent biomedical signals and health informatics  
 - Applied deep learning research  
 
 ### 🌐 Portfolio
